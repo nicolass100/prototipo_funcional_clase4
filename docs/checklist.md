@@ -1,0 +1,12 @@
+# Checklist de Implementación (Clase 4)
+- [x] Revisión de arquitectura con requisitos y componentes.
+- [x] Creación del repositorio local y estructura de carpetas.
+- [x] Instalación de tecnologías base (Node/Express, React/Vite, Sequelize/SQLite).
+- [x] MVP funcional:
+  - [x] Pantalla de Login (frontend)
+  - [x] Conexión frontend → backend
+  - [x] Verificación contra BD (SQLite) con usuario sembrado
+  - [x] Dashboard vacío tras login
+- [x] Endpoint de salud `/api/health`
+- [x] README con instrucciones
+- [ ] Captura/GIF del flujo mínimo (pendiente: tomar y subir)
