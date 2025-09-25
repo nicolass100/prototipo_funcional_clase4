@@ -11,11 +11,12 @@ export const sequelize = new Sequelize({
   logging: false,
 });
 
-// Models
 import UserModel from './user.js';
 export const User = UserModel(sequelize);
 
-// Sync models (used in seed or startup if needed)
+import ProductModel from './Product.js';
+export const Product = ProductModel(sequelize);
+
 export async function syncModels() {
   await sequelize.sync();
 }

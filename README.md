@@ -64,6 +64,16 @@ npm run dev    # abre el frontend en http://localhost:5173
 ## Endpoints principales
 - `GET /api/health` → estado del servidor y DB
 - `POST /api/auth/login` → login (email, password)
+- `GET /api/products` → listar productos
+- `POST /api/products` → crear producto
+
+---
+
+## Demo (v0.1)
+![Demo](docs/demo.gif)
+
+## Demo (v0.2) – Agregar producto
+![Demo productos](docs/demo_productos.gif)
 
 ---
 

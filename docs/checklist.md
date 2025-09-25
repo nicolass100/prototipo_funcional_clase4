@@ -10,3 +10,16 @@
 - [x] Endpoint de salud `/api/health`
 - [x] README con instrucciones
 - [ ] Captura/GIF del flujo mínimo (pendiente: tomar y subir)
+
+# Checklist de requisitos (v0.2)
+
+- [x] Login básico (usuario sembrado)
+- [x] Salud del sistema (`GET /api/health`)
+- [x] Productos: listar (`GET /api/products`)
+- [x] Productos: crear (`POST /api/products`)
+- [ ] Productos: actualizar (`PUT /api/products/:id`)
+- [ ] Productos: eliminar (`DELETE /api/products/:id`)
+- [ ] Validaciones/mensajes de error mejorados
+- [ ] Rutas protegidas con token en el front
+- [ ] Pruebas entre equipos realizadas
+- [ ] GIF actualizado del flujo
