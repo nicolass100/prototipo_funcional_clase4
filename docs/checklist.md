@@ -23,3 +23,10 @@
 - [ ] Rutas protegidas con token en el front
 - [ ] Pruebas entre equipos realizadas
 - [ ] GIF actualizado del flujo
+- [X]
+- [x] Login básico
+- [x] Productos: listar
+- [x] Productos: crear
+- [x] Pruebas entre equipos (registradas en docs/pruebas.md)
+- [ ] Productos: actualizar/eliminar (CRUD completo)
+- [ ] Rutas protegidas con token en el front
