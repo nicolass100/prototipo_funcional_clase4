@@ -70,6 +70,8 @@ npm run dev    # abre el frontend en http://localhost:5173
 ## Demo (v0.1)
 ![Demo](docs/demo.gif)
 
+---
+
 ## Demo (v0.2) – Agregar producto
 ![Demo productos](docs/demo_productos.gif)
 
