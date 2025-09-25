@@ -67,6 +67,12 @@ npm run dev    # abre el frontend en http://localhost:5173
 
 ---
 
+## Demo (v0.1)
+![Demo](docs/demo.gif)
+
+
+---
+
 ## Prueba entre equipos (sugerencias)
 1. Ejecuta tu app y comparte la URL/README con otro equipo.
 2. El otro equipo debe poder:
